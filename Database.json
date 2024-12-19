@@ -3,19 +3,19 @@
     "id": 1,
     "name": "Eintrag 1",
     "description": "Beschreibung des ersten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag1.jpg"
+    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag1.png"
   },
   {
     "id": 2,
     "name": "Eintrag 2",
     "description": "Beschreibung des zweiten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag2.jpg"
+    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag2.png"
   },
   {
     "id": 3,
     "name": "Eintrag 3",
     "description": "Beschreibung des dritten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag3.jpg"
+    "imageURL": "https://raw.githubusercontent.com/deinbenutzername/deinrepository/main/images/eintrag3.png"
   }
 ]
 
