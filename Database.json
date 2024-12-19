@@ -1,21 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Eintrag 1",
-    "description": "Beschreibung des ersten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/eintrag1.png"
-  },
-  {
-    "id": 2,
-    "name": "Eintrag 2",
-    "description": "Beschreibung des zweiten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/eintrag2.png"
-  },
-  {
-    "id": 3,
-    "name": "Eintrag 3",
-    "description": "Beschreibung des dritten Eintrags",
-    "imageURL": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/eintrag3.png"
+    "title": "122",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/122.png",
+    "schedule": "Westbahnhof \(String("\u{02192}")) Lego Frankfurt ZOB",
+    "schedule2": "Betrieb von 6 bis 22 Uhr an allen Wochentagen",
   }
 ]
 
