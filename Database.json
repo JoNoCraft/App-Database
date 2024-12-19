@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "122",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/122.png",
     "schedule": "Westbahnhof \u2192 Lego Frankfurt ZOB",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "148",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/148.png",
     "schedule": "Betriebshof Süd \u2192 Stadtmarkt",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "112",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/112.png",
     "schedule": "Circulator (LFR HBF \u2192 LFR HBF)",
@@ -22,6 +25,7 @@
   },
   {
     "id": 4,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "165",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/165.png",
     "schedule": "Südring Center \u2194 Lego Offenbacher Markt",
@@ -29,6 +33,7 @@
   },
   {
     "id": 5,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "SB2",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/SB2.png",
     "schedule": "Lego Mainz ZOB \u2194 Lego Frankfurt Ost",
@@ -36,6 +41,7 @@
   },
   {
     "id": 6,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "SB6",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/SB6.png",
     "schedule": "Lego Frankfurt ZOB \u2194 Lego Freiburg Boyer Straße",
@@ -43,6 +49,7 @@
   },
   {
     "id": 7,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "200",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/200.png",
     "schedule": "Buchenstrasse \u2194 Rathausplatz",
@@ -50,6 +57,7 @@
   },
   {
     "id": 8,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "259",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/259.png",
     "schedule": "Boyer Straße \u2194 Lego Frankfurt ZOB",
@@ -57,6 +65,7 @@
   },
   {
     "id": 9,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Bus.png",
     "title": "262",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/262.png",
     "schedule": "Ekhardt Markt \u2194 Lego Frankfurt ZOB",
@@ -64,6 +73,7 @@
   },
   {
     "id": 10,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Train.png",
     "title": "RE10",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/RE10.png",
     "schedule": "Lego Frankfurt HBF \u2194 Lego Bonn HBF",
@@ -71,6 +81,7 @@
   },
   {
     "id": 11,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Train.png",
     "title": "U18",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U18.png",
     "schedule": "Hochstraße \u2192 Bonner Platz",
@@ -78,6 +89,7 @@
   },
   {
     "id": 12,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Train.png",
     "title": "U19",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U19.png",
     "schedule": "Hochstraße \u2194 Bonner Platz",
@@ -85,6 +97,7 @@
   },
   {
     "id": 13,
+    "type": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/Train.png",
     "title": "U21",
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U21.png",
     "schedule": "Hochstraße \u2194 Bonner Platz",
