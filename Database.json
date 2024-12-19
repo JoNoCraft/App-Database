@@ -5,6 +5,90 @@
     "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/122.png",
     "schedule": "Westbahnhof \u2192 Lego Frankfurt ZOB",
     "schedule2": "Betrieb von 6 bis 22 Uhr an allen Wochentagen"
+  },
+  {
+    "id": 2,
+    "title": "148",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/148.png",
+    "schedule": "Betriebshof Süd \u2192 Stadtmarkt",
+    "schedule2": "Betrieb von 8 bis 22 Uhr an allen Wochentagen"
+  },
+  {
+    "id": 3,
+    "title": "112",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/112.png",
+    "schedule": "Circulator (LFR HBF \u2192 LFR HBF)",
+    "schedule2": "Betrieb von 6 bis 18 Uhr an den Tagen: Mo, Di, Mi, Do, Fr"
+  },
+  {
+    "id": 4,
+    "title": "165",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/165.png",
+    "schedule": "Südring Center \u2194 Lego Offenbacher Markt",
+    "schedule2": "Betrieb von 6 bis 22 Uhr an den Tagen: Mo, Di, Mi, Do, Fr"
+  },
+  {
+    "id": 5,
+    "title": "SB2",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/SB2.png",
+    "schedule": "Lego Mainz ZOB \u2194 Lego Frankfurt Ost",
+    "schedule2": "Betrieb von 4 bis 23 Uhr an allen Wochentagen\nLinie fährt jede Stunde um .20 als SB2A"
+  },
+  {
+    "id": 6,
+    "title": "SB6",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/SB6.png",
+    "schedule": "Lego Frankfurt ZOB \u2194 Lego Freiburg Boyer Straße",
+    "schedule2": "Betrieb von 6 bis 22.30 an allen Wochentagen"
+  },
+  {
+    "id": 7,
+    "title": "200",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/200.png",
+    "schedule": "Buchenstrasse \u2194 Rathausplatz",
+    "schedule2": "Betrieb von 8 bis 22 Uhr an allen Wochentagen"
+  },
+  {
+    "id": 8,
+    "title": "259",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/259.png",
+    "schedule": "Boyer Straße \u2194 Lego Frankfurt ZOB",
+    "schedule2": "Betrieb von 8 bis 18 Uhr an allen Wochentagen"
+  },
+  {
+    "id": 9,
+    "title": "262",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/262.png",
+    "schedule": "Ekhardt Markt \u2194 Lego Frankfurt ZOB",
+    "schedule2": "Betrieb von 6 bis 18 Uhr an den Tagen: Mo, Di, Mi, Do, Fr"
+  },
+  {
+    "id": 10,
+    "title": "RE10",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/RE10.png",
+    "schedule": "Lego Frankfurt HBF \u2194 Lego Bonn HBF",
+    "schedule2": "Betrieb jeden Wochentag nach Fahrplan"
+  },
+  {
+    "id": 11,
+    "title": "U18",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U18.png",
+    "schedule": "Hochstraße \u2192 Bonner Platz",
+    "schedule2": "Betrieb rund um die Uhr an den Tagen: Mo, Di, Mi, Do, Fr, Sa"
+  },
+  {
+    "id": 12,
+    "title": "U19",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U19.png",
+    "schedule": "Hochstraße \u2194 Bonner Platz",
+    "schedule2": "Betrieb rund um die Uhr an den Tagen: Mo, Di, Mi, Do, Fr, Sa"
+  },
+  {
+    "id": 13,
+    "title": "U21",
+    "imageName": "https://raw.githubusercontent.com/JoNoCraft/App-Database/main/U21.png",
+    "schedule": "Hochstraße \u2194 Bonner Platz",
+    "schedule2": "Betrieb rund um die Uhr an den Tagen: Mo, Di, Mi, Do, Fr, Sa"
   }
 ]
 
